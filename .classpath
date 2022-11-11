@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/jsoup/jsoup-1.15.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Grid/selenium-server-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/byte-buddy-1.12.18.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/failsafe-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-buffer-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-codec-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-codec-http-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-codec-socks-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-common-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-handler-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-handler-proxy-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-resolver-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-transport-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-transport-classes-epoll-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-transport-classes-kqueue-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-transport-native-epoll-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-transport-native-kqueue-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/netty-transport-native-unix-common-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-api-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-api-logs-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-context-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-exporter-common-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-exporter-logging-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-sdk-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-sdk-common-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-sdk-extension-autoconfigure-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-sdk-logs-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-sdk-metrics-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-sdk-trace-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/opentelemetry-semconv-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/lib/slf4j-api-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-api-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-api-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-chrome-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-chrome-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-chromium-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-chromium-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v85-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v85-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v104-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v104-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v105-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v105-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v106-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-devtools-v106-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-edge-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-edge-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-firefox-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-firefox-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-http-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-http-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-ie-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-ie-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-java-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-java-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-json-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-json-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-remote-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-remote-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-safari-driver-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-safari-driver-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-support-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium Java/selenium-support-4.5.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/java apache poi/poi-5.2.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/java apache poi/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/java log4j-core/log4j-core-2.19.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Program Files/java maven-surefire-plugins/maven-surefire-plugin-3.0.0-M7.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
